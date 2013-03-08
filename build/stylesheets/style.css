@@ -1,0 +1,6 @@
+/* line 1, style.sass */
+.block {
+  border: solid 1px #cccccc;
+  display: block;
+  padding: 5px;
+  margin-top: 10px; }
